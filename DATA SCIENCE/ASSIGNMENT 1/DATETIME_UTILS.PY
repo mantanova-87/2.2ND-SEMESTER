@@ -30,7 +30,7 @@ def days_between_dates(date1, date2):
             Y1-=1
         YDCNT=(Y1-Y2)*365
         print("TOTAL NUMBER OF DAYS BETWEEN GIVEN DATES:",DCNT+MDCNT+YDCNT)
-    elif Y1==Y2:
+    """elif Y1==Y2:
         if M1>M2:
             if D1>=D2:
                 DCNT=D1-D2
@@ -38,6 +38,9 @@ def days_between_dates(date1, date2):
                 DCNT=(30+D1)-D2
                 M1-=1
             MDCNT=(M1-M2)*30
+            print("TOTAL NUMBER OF DAYS BETWEEN GIVEN DATES:",DCNT+MDCNT+YDCNT)"""
+        
+
 
             
         
