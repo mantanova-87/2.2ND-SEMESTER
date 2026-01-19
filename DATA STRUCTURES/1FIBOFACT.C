@@ -14,6 +14,7 @@ int main()
             scanf("%d",&A);
             printf("FOLLOWING IS THE REQUIRED FIBONACCI SERIES: \n");
             printf("%d ",B);
+            int SUM=
             for ( int I=0; I<=A-2; I++)
             {
                 B=C;
