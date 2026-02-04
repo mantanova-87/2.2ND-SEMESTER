@@ -27,16 +27,17 @@ for i in range(1,N+1):
 A.seek(0)
 CF=A.readlines()
 print(CF)
+D=CF.split()
+j=len(D)
+for i in D:
+    j+=len(i)
+
 STR=""
 for k in CF:
     STR=STR+k
 print(STR)
 SEP=[":"," ",",","\n"]
-j=0
 for c in SEP:
-    for d in STR:
-        if c in d:
-            j+=1
     STR=STR.replace(c," ")
 LST=STR.split()
 print(LST)
