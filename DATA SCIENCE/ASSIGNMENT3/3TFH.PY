@@ -27,15 +27,19 @@ for i in range(1,N+1):
 A.seek(0)
 CF=A.readlines()
 print(CF)
-D=CF.split()
-j=len(D)
-for i in D:
-    j+=len(i)
+B=open("DESTINATION.txt","a")
+for m in CF:
+    B.write(m)
 
 STR=""
 for k in CF:
     STR=STR+k
 print(STR)
+D=STR.split()
+j=len(D)
+print(j)
+for i in D:
+    j+=len(i)
 SEP=[":"," ",",","\n"]
 for c in SEP:
     STR=STR.replace(c," ")
@@ -48,8 +52,7 @@ for i in L:
         S=L.count(i)
         print("THE OCCURENCE OF WORD",i,"IN THE ENTERED SENTENCE IS",S)
         T.append(i)
-B=open("DESTINATION.txt","a")
-B.write(STR)
+
 print("TOTAL NUMBER OF LINES IN THE TEXT FILE IS: ",len(CF))
 print("TOTAL NUNBER OF WORDS IN THE FILE IS: ",len(LST))
 print("TOTAL NUMBER OF CHARACTERS IN THE FILE IS: ",j)
