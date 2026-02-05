@@ -14,7 +14,7 @@ int main()
         ARR1[i]=a;
     }
     int MAX=ARR1[0];
-    int LOC;
+    int LOC=0;
     for ( i = 1; i < N; i++)
     {
         if (ARR1[i]>MAX)
