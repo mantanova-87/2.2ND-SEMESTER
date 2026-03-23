@@ -1,3 +1,3 @@
-Name: Alice, Age: 22, Major: Computer Science
-Name: Bob, Age: 24, Major: Mathematics
-Name: Charlie, Age: 23, Major: Physics
+MY NAME IS MANTAVYA.
+I am an engineering student.
+I am in second semester.
