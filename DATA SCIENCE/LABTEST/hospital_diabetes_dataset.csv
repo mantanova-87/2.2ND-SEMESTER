@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,BMI,Systolic_BP,Diastolic_BP,Blood_Pressure_Category,Glucose_Level,HbA1c,Cholesterol,Smoking_Status,Physical_Activity,Family_History,Exercise_Minutes_Per_Day,Sleep_Hours,Hospital_Visits_Last_Year,Diet_Score,Admission_Type,Diagnosis
+P1075,61.0,F,47.2,143.0,100.0,High,131.0,6.7,214.0,Yes,Low,No,40,7.0,0,6.3,OPD,Positive
+P1042,46.0,,22.2,129.0,86.0,Normal,167.0,8.2,209.0,Occasional,Moderate,Yes,59,8.5,0,4.3,Routine,diabetic
+P1046,41.0,Female,32.2,113.0,72.0,Normal,150.0,7.9,213.0,No,Moderate,Yes,36,6.3,4,3.4,OPD,Diabetic
+P1068,54.0,Male,,170.0,76.0,High,208.0,7.7,189.0,No,High,Yes,69,8.0,1,4.9,OPD,Positive
+P1003,72.0,F,19.0,127.0,77.0,Normal,157.0,5.2,201.0,Yes,low,Yes,20,8.0,5,5.7,Emergency,Non-Diabetic
+P1039,51.0,F,27.9,96.0,82.0,Normal,129.0,6.9,206.0,No,Moderate,No,31,6.1,0,5.0,Routine,
+P1023,25.0,female,29.2,138.0,90.0,Normal,157.0,8.8,228.0,Occasional,Moderate,Yes,64,6.3,3,6.1,OPD,Non-Diabetic
+P1020,71.0,Male,27.8,100.0,93.0,Normal,178.0,4.2,212.0,yes,Low,No,30,6.7,1,6.3,OPD,Non-Diabetic
+P1070,54.0,male,34.2,98.0,65.0,Normal,60.0,6.3,154.0,yes,,No,63,7.4,2,6.2,OPD,Non-Diabetic
+P1073,73.0,M,29.9,114.0,79.0,Normal,134.0,4.2,176.0,No,Moderate,Yes,23,9.0,2,7.5,OPD,Non-Diabetic
+P1041,51.0,M,44.8,150.0,78.0,High,158.0,,185.0,No,Low,Yes,11,6.2,1,4.5,OPD,Diabetic
+P1026,30.0,Male,34.1,139.0,91.0,Normal,188.0,6.1,237.0,Yes,,No,34,8.1,2,6.0,Routine,Negative
+P1032,,Male,30.9,113.0,89.0,Normal,63.0,7.1,215.0,No,Moderate,Yes,24,6.1,0,4.3,OPD,Diabetic
+P1025,50.0,M,20.7,,75.0,High,217.0,6.4,246.0,no,Moderate,No,6,3.5,5,5.9,OPD,Non-Diabetic
+P1058,53.0,Female,29.0,138.0,94.0,Normal,92.0,5.6,208.0,no,,No,33,7.6,1,4.2,Routine,Non-Diabetic
+P1083,40.0,Female,32.3,99.0,72.0,Normal,178.0,5.3,220.0,No,Low,Yes,34,8.0,3,6.8,Routine,Diabetic
+P1006,73.0,female,27.5,,101.0,Normal,232.0,,204.0,No,High,No,28,8.0,3,1.4,OPD,Non-Diabetic
+P1044,24.0,M,23.0,114.0,83.0,Normal,,5.8,188.0,No,moderate,No,28,6.3,2,7.0,Emergency,Non-Diabetic
+P1021,44.0,Female,41.8,109.0,86.0,Normal,109.0,5.0,154.0,No,moderate,No,58,8.1,2,7.3,Emergency,Negative
+P1028,38.0,female,32.1,147.0,82.0,High,60.0,9.9,202.0,No,low,No,47,6.3,3,5.4,Emergency,Non-Diabetic
+P1082,72.0,Female,29.1,161.0,86.0,High,132.0,6.8,162.0,No,Low,No,33,6.9,4,3.8,OPD,diabetic
+P1031,78.0,Female,19.4,215.0,75.0,High,191.0,7.7,213.0,Occasional,Moderate,No,0,8.1,3,4.9,OPD,Positive
+P1048,53.0,Female,,129.0,70.0,Normal,205.0,6.7,253.0,no,Low,Unknown,28,7.2,2,6.3,Routine,Non-Diabetic
+P1078,49.0,M,22.3,80.0,82.0,Low,151.0,5.3,242.0,No,,Yes,32,6.9,3,8.1,Emergency,Negative
+P1014,20.0,Female,38.4,129.0,,Normal,60.0,6.5,229.0,No,moderate,Yes,42,5.9,1,2.8,Routine,Non-Diabetic
+P1036,51.0,Male,28.1,174.0,92.0,High,115.0,7.0,203.0,No,High,No,46,6.8,2,7.1,Routine,Non-Diabetic
+P1051,42.0,M,28.6,141.0,91.0,High,138.0,8.0,188.0,yes,moderate,Yes,27,7.0,3,8.1,Routine,Non-Diabetic
+P1086,63.0,Male,26.0,157.0,81.0,High,360.0,6.5,216.0,No,Low,No,27,7.5,1,5.6,Emergency,Non-Diabetic
+P1061,45.0,Female,28.8,121.0,78.0,Normal,60.0,8.5,259.0,No,low,Yes,39,4.3,4,5.4,Routine,Non-Diabetic
+P1055,63.0,Female,19.8,145.0,71.0,High,,7.2,149.0,Occasional,moderate,No,42,6.7,1,9.2,Routine,Positive
+P1077,43.0,M,23.1,205.0,80.0,Normal,165.0,6.0,167.0,No,moderate,No,22,7.3,1,4.3,OPD,non diabetic
+P1045,36.0,F,25.6,142.0,89.0,High,192.0,6.3,193.0,no,Moderate,,32,6.3,3,8.3,OPD,Non-Diabetic
+P1017,53.0,Female,27.1,139.0,92.0,Normal,142.0,9.1,196.0,yes,Low,Yes,56,7.0,2,7.6,Emergency,Negative
+P1088,40.0,Female,31.1,151.0,90.0,High,130.0,4.2,181.0,No,Low,No,39,8.7,2,7.3,OPD,non diabetic
+P1064,61.0,Male,38.3,163.0,72.0,High,123.0,7.0,188.0,Yes,Low,No,51,7.9,1,2.5,Routine,diabetic
+P1043,43.0,,36.5,106.0,80.0,Normal,84.0,7.1,187.0,No,Moderate,No,48,7.7,1,7.5,Emergency,Diabetic
+P1029,43.0,Female,22.2,141.0,83.0,High,196.0,5.3,142.0,Yes,Low,No,20,5.4,1,6.0,Emergency,Non-Diabetic
+P1002,58.0,Male,25.2,137.0,83.0,Normal,136.0,8.2,302.0,No,Low,No,5,7.0,2,3.5,OPD,Non-Diabetic
+P1038,27.0,M,18.5,142.0,98.0,High,87.0,7.3,206.0,No,Low,No,15,7.9,3,4.9,Routine,non diabetic
+P1015,,M,28.5,105.0,76.0,Normal,111.0,6.6,145.0,yes,moderate,Yes,40,7.2,4,5.0,OPD,Non-Diabetic
+P1007,60.0,male,26.1,145.0,67.0,High,100.0,7.0,272.0,Occasional,moderate,No,38,6.7,1,5.0,OPD,Non-Diabetic
+P1071,73.0,female,22.7,118.0,65.0,Normal,133.0,5.0,170.0,no,Moderate,No,36,5.4,3,5.5,Emergency,Negative
+P1027,54.0,M,,151.0,89.0,High,114.0,7.9,222.0,Occasional,Moderate,Yes,20,4.6,3,9.1,OPD,diabetic
+P1034,61.0,Male,21.8,,79.0,Normal,135.0,7.0,164.0,No,Moderate,No,3,6.6,4,3.9,OPD,Negative
+P1080,44.0,F,27.1,123.0,82.0,Normal,112.0,4.2,203.0,No,High,Yes,63,9.6,0,7.5,OPD,non diabetic
+P1057,43.0,Male,29.2,126.0,74.0,Normal,197.0,9.3,239.0,no,Moderate,No,49,6.8,1,6.9,OPD,
+P1008,40.0,Male,19.3,132.0,108.0,Normal,174.0,6.4,181.0,No,High,No,9,6.5,0,4.1,OPD,non diabetic
+P1067,64.0,male,,146.0,76.0,High,138.0,6.4,185.0,no,Low,No,36,6.5,2,6.1,Routine,Negative
+P1066,47.0,Female,20.6,103.0,85.0,Normal,203.0,,,Occasional,Moderate,No,56,9.2,5,6.9,OPD,Non-Diabetic
+P1030,38.0,Female,35.6,122.0,97.0,Normal,,5.4,221.0,Yes,Moderate,No,24,5.1,3,6.3,OPD,non diabetic
+P1076,49.0,male,26.1,109.0,,Normal,76.0,8.4,264.0,No,low,Yes,41,7.7,2,7.4,OPD,Non-Diabetic
+P1024,,M,27.3,138.0,72.0,Normal,76.0,5.3,226.0,No,Moderate,Yes,31,7.6,2,3.5,Routine,Non-Diabetic
+P1005,44.0,Male,29.0,98.0,90.0,Normal,178.0,6.8,178.0,yes,Moderate,Yes,36,6.1,2,4.2,OPD,Diabetic
+P1047,65.0,Male,20.4,132.0,107.0,Normal,101.0,4.9,187.0,No,High,No,0,9.2,2,4.8,OPD,non diabetic
+P1084,35.0,M,27.6,,88.0,Normal,91.0,4.6,211.0,No,High,No,43,8.0,2,6.4,Routine,Non-Diabetic
+P1016,32.0,,29.0,135.0,75.0,Normal,101.0,7.1,177.0,no,Moderate,Yes,44,7.3,2,5.6,Routine,diabetic
+P1010,41.0,female,25.5,131.0,80.0,Normal,234.0,8.4,232.0,Occasional,Moderate,No,31,7.5,3,6.3,Routine,Non-Diabetic
+P1089,56.0,M,,128.0,77.0,Normal,88.0,7.4,185.0,yes,High,Yes,44,5.3,2,6.9,OPD,diabetic
+P1069,38.0,Female,32.1,149.0,85.0,High,73.0,4.6,194.0,no,Moderate,,20,5.5,0,5.2,Routine,Non-Diabetic
+P1022,49.0,F,26.4,138.0,92.0,Normal,95.0,6.1,,Yes,low,No,20,7.4,1,4.6,OPD,non diabetic
+P1035,28.0,Female,24.2,130.0,95.0,Normal,137.0,5.6,245.0,no,Moderate,Yes,46,7.3,3,3.3,Emergency,Non-Diabetic
+P1053,58.0,male,32.0,132.0,90.0,Normal,214.0,6.2,212.0,No,Moderate,No,44,6.5,3,5.9,OPD,Diabetic
+P1004,44.0,F,29.2,111.0,83.0,Normal,,4.9,249.0,Yes,moderate,Yes,31,8.7,1,8.0,Routine,Non-Diabetic
+P1091,63.0,M,30.3,137.0,82.0,Normal,81.0,6.0,184.0,No,Low,Yes,60,5.8,0,3.0,Routine,Diabetic
+P1050,53.0,F,18.2,171.0,96.0,High,188.0,6.1,198.0,Yes,Low,Yes,14,7.9,0,7.0,OPD,Negative
+P1082,72.0,Female,29.1,161.0,86.0,High,132.0,6.8,162.0,No,Low,No,33,6.9,4,3.8,OPD,diabetic
+P1072,47.0,female,33.1,153.0,73.0,High,152.0,7.9,167.0,Yes,Moderate,No,20,6.0,1,3.3,OPD,Non-Diabetic
+P1078,49.0,M,22.3,80.0,82.0,Low,151.0,5.3,242.0,No,,Yes,32,6.9,3,8.1,Emergency,Negative
+P1090,50.0,Male,21.3,108.0,85.0,Normal,110.0,7.1,,Yes,Low,Yes,23,7.1,4,5.9,OPD,Non-Diabetic
+P1058,53.0,Female,29.0,138.0,94.0,Normal,92.0,5.6,208.0,no,,No,33,7.6,1,4.2,Routine,Non-Diabetic
+P1087,53.0,M,43.3,99.0,87.0,Normal,99.0,5.3,298.0,No,Low,Unknown,2,5.3,2,5.6,Routine,Non-Diabetic
+P1013,18.0,Male,,131.0,75.0,Normal,108.0,5.5,242.0,No,High,No,40,8.4,1,3.7,OPD,non diabetic
+P1063,29.0,female,23.4,115.0,75.0,Normal,60.0,6.5,191.0,Occasional,Low,No,43,7.1,0,3.4,OPD,non diabetic
+P1049,20.0,Female,35.1,115.0,,Normal,140.0,5.5,171.0,No,High,No,20,7.2,2,4.0,OPD,Negative
+P1079,18.0,Female,22.8,108.0,70.0,Normal,93.0,8.9,197.0,No,Low,No,71,7.1,1,5.5,OPD,Non-Diabetic
+P1009,57.0,Female,25.1,103.0,59.0,Normal,143.0,4.2,274.0,No,Low,No,58,7.8,4,1.5,OPD,Non-Diabetic
+P1019,,F,27.3,149.0,74.0,High,219.0,4.9,229.0,Occasional,low,No,45,5.9,3,8.1,Emergency,Non-Diabetic
+P1037,18.0,female,24.6,91.0,92.0,Normal,163.0,7.8,231.0,Occasional,Moderate,No,40,5.2,0,8.0,Routine,Non-Diabetic
+P1011,41.0,F,22.8,136.0,89.0,Normal,99.0,8.8,184.0,No,Moderate,Yes,52,4.8,2,6.2,Emergency,Non-Diabetic
+P1081,54.0,Male,29.5,103.0,,Normal,87.0,4.2,231.0,No,Moderate,Yes,40,6.6,1,7.2,Routine,Non-Diabetic
+P1001,46.0,F,25.6,142.0,75.0,High,100.0,,210.0,Yes,High,Yes,13,4.9,6,9.7,OPD,non diabetic
+P1085,40.0,male,35.9,131.0,100.0,Normal,158.0,7.2,224.0,no,High,No,14,8.1,3,5.9,Emergency,
+P1018,33.0,M,16.4,150.0,86.0,High,,5.8,202.0,Yes,moderate,Yes,36,6.0,3,8.5,OPD,Negative
+P1012,52.0,Male,26.6,110.0,85.0,Normal,97.0,5.2,229.0,No,Moderate,Yes,38,8.5,5,8.0,Emergency,Non-Diabetic
+P1062,30.0,Male,29.2,119.0,87.0,Normal,82.0,,,No,Low,Yes,48,7.8,6,4.7,Routine,Negative
+P1015,,M,28.5,105.0,76.0,Normal,111.0,6.6,145.0,yes,moderate,Yes,40,7.2,4,5.0,OPD,Non-Diabetic
+P1074,18.0,Male,32.3,137.0,86.0,Normal,60.0,5.3,204.0,Occasional,Low,Yes,26,6.5,1,6.4,OPD,Non-Diabetic
+P1043,43.0,,36.5,106.0,80.0,Normal,84.0,7.1,187.0,No,Moderate,No,48,7.7,1,7.5,Emergency,Diabetic
+P1060,40.0,Male,23.6,104.0,72.0,Normal,,6.5,185.0,Yes,Low,Yes,45,6.8,4,6.9,Routine,Non-Diabetic
+P1000,56.0,M,23.4,124.0,84.0,Normal,139.0,5.1,183.0,No,Moderate,,65,5.2,1,2.1,Routine,Non-Diabetic
+P1033,31.0,Female,40.2,123.0,80.0,Normal,108.0,8.9,156.0,No,moderate,Unknown,0,7.1,3,8.3,OPD,Diabetic
+P1040,60.0,F,21.3,,90.0,Normal,140.0,7.7,241.0,No,Low,No,32,4.8,2,6.3,Emergency,Non-Diabetic
+P1059,64.0,Male,29.5,145.0,80.0,High,166.0,6.4,245.0,Occasional,High,No,20,6.6,3,6.5,OPD,Non-Diabetic
+P1052,37.0,Female,29.0,87.0,89.0,Low,228.0,6.4,260.0,No,Low,Yes,64,6.4,3,4.7,OPD,Negative
+P1037,18.0,female,24.6,91.0,92.0,Normal,163.0,7.8,231.0,Occasional,Moderate,No,40,5.2,0,8.0,Routine,Non-Diabetic
+P1065,70.0,M,30.2,136.0,85.0,Normal,167.0,6.4,260.0,No,Moderate,No,22,3.5,5,2.1,Emergency,Diabetic
+P1022,49.0,F,26.4,138.0,92.0,Normal,95.0,6.1,,Yes,low,No,20,7.4,1,4.6,OPD,non diabetic
+P1056,35.0,Male,30.5,112.0,83.0,Normal,164.0,7.1,215.0,No,Moderate,Yes,57,7.6,3,7.2,Routine,Diabetic
+P1054,64.0,M,20.3,115.0,82.0,Normal,124.0,4.2,244.0,Yes,Low,Yes,22,6.6,3,8.6,OPD,Non-Diabetic
+P1018,33.0,M,16.4,150.0,86.0,High,,5.8,202.0,Yes,moderate,Yes,36,6.0,3,8.5,OPD,Negative
