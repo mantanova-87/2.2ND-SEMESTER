@@ -13,6 +13,8 @@ data = {
 }
 
 df = pd.DataFrame(data)
+df.to_csv("STUDENT_DATA.csv", index=False)
+
 print(df.head())
 device_ratio = df["Device_Type"].value_counts(normalize=True) * 100
 print("Device Preference Ratio (%):\n", device_ratio)

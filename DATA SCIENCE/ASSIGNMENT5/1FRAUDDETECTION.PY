@@ -26,5 +26,4 @@ print("Outliers:\n", outliers)
 
 mean_value = df["Amount ($)"].mean()
 df.loc[(df["Amount ($)"] < lower_bound) | (df["Amount ($)"] > upper_bound), "Amount ($)"] = mean_value
-
 print(df.head())
